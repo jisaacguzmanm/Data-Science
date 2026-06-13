@@ -1,0 +1,332 @@
+DATA SCIENCE
+│
+├── 1. MATHEMATICS
+│   │
+│   ├── Linear Algebra
+│   │   ├── Scalars
+│   │   ├── Vectors
+│   │   ├── Matrices
+│   │   ├── Matrix Operations
+│   │   ├── Determinants
+│   │   ├── Eigenvalues
+│   │   ├── Eigenvectors
+│   │   ├── Rank
+│   │   └── Singular Value Decomposition (SVD)
+│   │
+│   ├── Calculus
+│   │   ├── Functions
+│   │   ├── Limits
+│   │   ├── Derivatives
+│   │   ├── Partial Derivatives
+│   │   ├── Chain Rule
+│   │   ├── Gradients
+│   │   ├── Jacobian
+│   │   ├── Hessian
+│   │   └── Integrals
+│   │
+│   ├── Probability
+│   │   ├── Sample Space
+│   │   ├── Events
+│   │   ├── Conditional Probability
+│   │   ├── Bayes Theorem
+│   │   ├── Random Variables
+│   │   ├── Probability Distributions
+│   │   ├── Expected Value
+│   │   ├── Variance
+│   │   └── Covariance
+│   │
+│   ├── Statistics
+│   │   ├── Descriptive Statistics
+│   │   ├── Inferential Statistics
+│   │   ├── Hypothesis Testing
+│   │   ├── Confidence Intervals
+│   │   ├── Regression Analysis
+│   │   └── Experimental Design
+│   │
+│   ├── Optimization
+│   │   ├── Convex Optimization
+│   │   ├── Gradient Descent
+│   │   ├── SGD
+│   │   ├── Adam
+│   │   ├── RMSProp
+│   │   ├── Momentum
+│   │   └── Constrained Optimization
+│   │
+│   └── Numerical Methods
+│       ├── Root Finding
+│       ├── Interpolation
+│       ├── Numerical Integration
+│       └── Numerical Differentiation
+│
+├── 2. PROGRAMMING
+│   │
+│   ├── Python
+│   │   ├── Syntax
+│   │   ├── OOP
+│   │   ├── NumPy
+│   │   ├── Pandas
+│   │   ├── SciPy
+│   │   └── Matplotlib
+│   │
+│   ├── SQL
+│   │   ├── SELECT
+│   │   ├── JOIN
+│   │   ├── GROUP BY
+│   │   ├── Window Functions
+│   │   └── CTE
+│   │
+│   ├── R
+│   ├── APIs
+│   ├── Git
+│   ├── GitHub
+│   └── Software Engineering
+│
+├── 3. DATA ENGINEERING
+│   │
+│   ├── Databases
+│   │   ├── Relational Databases
+│   │   ├── NoSQL
+│   │   ├── Graph Databases
+│   │   └── Time Series Databases
+│   │
+│   ├── Data Warehouses
+│   │   ├── BigQuery
+│   │   ├── Snowflake
+│   │   ├── Redshift
+│   │   └── Databricks
+│   │
+│   ├── Data Lakes
+│   │   ├── S3
+│   │   ├── Delta Lake
+│   │   ├── Iceberg
+│   │   └── Hudi
+│   │
+│   ├── ETL / ELT
+│   ├── Airflow
+│   ├── Kafka
+│   ├── Spark
+│   ├── dbt
+│   └── Streaming Systems
+│
+├── 4. DATA ANALYSIS
+│   │
+│   ├── EDA
+│   │   ├── Univariate Analysis
+│   │   ├── Bivariate Analysis
+│   │   ├── Multivariate Analysis
+│   │   ├── Correlation Analysis
+│   │   └── Missing Values Analysis
+│   │
+│   ├── Data Cleaning
+│   │   ├── Missing Values
+│   │   ├── Outliers
+│   │   ├── Duplicates
+│   │   ├── Data Types
+│   │   └── Validation
+│   │
+│   ├── Feature Engineering
+│   │   ├── Scaling
+│   │   ├── Encoding
+│   │   ├── Feature Creation
+│   │   ├── Feature Selection
+│   │   └── Dimensionality Reduction
+│   │
+│   └── Visualization
+│       ├── Matplotlib
+│       ├── Seaborn
+│       ├── Plotly
+│       ├── Power BI
+│       ├── Tableau
+│       └── Streamlit
+│
+├── 5. MACHINE LEARNING
+│   │
+│   ├── Supervised Learning
+│   │   │
+│   │   ├── Regression
+│   │   │   ├── Linear Regression
+│   │   │   ├── Ridge
+│   │   │   ├── Lasso
+│   │   │   ├── ElasticNet
+│   │   │   ├── SVR
+│   │   │   ├── Random Forest
+│   │   │   ├── XGBoost
+│   │   │   ├── LightGBM
+│   │   │   └── CatBoost
+│   │   │
+│   │   └── Classification
+│   │       ├── Logistic Regression
+│   │       ├── KNN
+│   │       ├── SVM
+│   │       ├── Decision Tree
+│   │       ├── Random Forest
+│   │       ├── XGBoost
+│   │       ├── LightGBM
+│   │       ├── CatBoost
+│   │       └── Naive Bayes
+│   │
+│   ├── Unsupervised Learning
+│   │   ├── Clustering
+│   │   │   ├── KMeans
+│   │   │   ├── DBSCAN
+│   │   │   ├── HDBSCAN
+│   │   │   ├── GMM
+│   │   │   └── Hierarchical Clustering
+│   │   │
+│   │   ├── Dimensionality Reduction
+│   │   │   ├── PCA
+│   │   │   ├── LDA
+│   │   │   ├── t-SNE
+│   │   │   └── UMAP
+│   │   │
+│   │   └── Association Rules
+│   │       ├── Apriori
+│   │       └── FP-Growth
+│   │
+│   ├── Semi-Supervised Learning
+│   │
+│   ├── Reinforcement Learning
+│   │   ├── Q Learning
+│   │   ├── DQN
+│   │   ├── PPO
+│   │   ├── Actor Critic
+│   │   ├── SAC
+│   │   └── RLHF
+│   │
+│   └── Model Evaluation
+│       ├── Regression Metrics
+│       ├── Classification Metrics
+│       ├── Clustering Metrics
+│       └── Validation Techniques
+│
+├── 6. DEEP LEARNING
+│   │
+│   ├── Neural Networks Fundamentals
+│   │   ├── Perceptron
+│   │   ├── MLP
+│   │   ├── Activation Functions
+│   │   ├── Backpropagation
+│   │   ├── Loss Functions
+│   │   └── Optimizers
+│   │
+│   ├── CNN
+│   │   ├── Convolution
+│   │   ├── Pooling
+│   │   ├── ResNet
+│   │   ├── EfficientNet
+│   │   └── DenseNet
+│   │
+│   ├── RNN
+│   │   ├── Vanilla RNN
+│   │   ├── LSTM
+│   │   └── GRU
+│   │
+│   ├── Autoencoders
+│   │   ├── AE
+│   │   ├── Sparse AE
+│   │   ├── Denoising AE
+│   │   └── VAE
+│   │
+│   ├── GANs
+│   │   ├── DCGAN
+│   │   ├── CycleGAN
+│   │   └── StyleGAN
+│   │
+│   └── Transformers
+│       ├── Attention
+│       ├── Self Attention
+│       ├── Multi Head Attention
+│       ├── Encoder
+│       ├── Decoder
+│       ├── BERT
+│       ├── GPT
+│       ├── T5
+│       ├── LLaMA
+│       └── Vision Transformer
+│
+├── 7. AI APPLICATIONS
+│   │
+│   ├── NLP
+│   │   ├── Tokenization
+│   │   ├── Embeddings
+│   │   ├── Text Classification
+│   │   ├── NER
+│   │   ├── QA
+│   │   ├── Summarization
+│   │   ├── Translation
+│   │   ├── RAG
+│   │   ├── Fine Tuning
+│   │   └── Agents
+│   │
+│   ├── Computer Vision
+│   │   ├── Classification
+│   │   ├── Detection
+│   │   ├── Segmentation
+│   │   ├── Tracking
+│   │   ├── OCR
+│   │   ├── YOLO
+│   │   ├── SAM
+│   │   └── CLIP
+│   │
+│   ├── Time Series
+│   │   ├── ARIMA
+│   │   ├── SARIMA
+│   │   ├── Prophet
+│   │   ├── LSTM
+│   │   ├── TFT
+│   │   └── N-BEATS
+│   │
+│   ├── Recommender Systems
+│   ├── Generative AI
+│   ├── Robotics
+│   └── Predictive Maintenance
+│
+├── 8. CLOUD
+│   │
+│   ├── AWS
+│   ├── Azure
+│   ├── GCP
+│   ├── Storage
+│   ├── Compute
+│   ├── Containers
+│   └── Kubernetes
+│
+├── 9. MLOPS
+│   │
+│   ├── Experiment Tracking
+│   │   ├── MLflow
+│   │   ├── W&B
+│   │   └── Neptune
+│   │
+│   ├── Data Versioning
+│   │   └── DVC
+│   │
+│   ├── Deployment
+│   │   ├── FastAPI
+│   │   ├── Docker
+│   │   ├── Kubernetes
+│   │   ├── BentoML
+│   │   └── Triton
+│   │
+│   ├── Monitoring
+│   │   ├── Drift Detection
+│   │   ├── Logging
+│   │   ├── Alerting
+│   │   └── Retraining
+│   │
+│   └── CI/CD
+│       ├── GitHub Actions
+│       ├── Jenkins
+│       └── GitLab CI
+│
+└── 10. BUSINESS UNDERSTANDING
+    │
+    ├── Problem Definition
+    ├── KPIs
+    ├── Stakeholders
+    ├── Storytelling
+    ├── Ethics
+    ├── Explainability
+    ├── CRISP-DM
+    ├── Agile Analytics
+    └── ROI

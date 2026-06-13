@@ -1,0 +1,48 @@
+# 2. Agregarlo al .gitignore
+Add-Content "C:\Users\jisaa\Documents\Proyectos\DATA_SCIENCE\.gitignore" "`n06_DEEP_LEARNING/06_6_TRANSFORMERS/36 transformer_intro_nlp.ipynb"
+
+
+@"
+# Datasets
+*.csv
+*.xlsx
+*.json
+*.parquet
+
+# Modelos
+*.joblib
+*.pkl
+*.h5
+*.pt
+*.pth
+models/
+Dataset/
+dataset/
+
+
+# Carpetas ignoradas
+CUADERNO_9_DATASET_DESCARGADOS/
+CNN_Redes_Neuronales_Convolucionales/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Archivos grandes
+*.zip
+*.tar.gz
+
+# Notebook con token expuesto
+06_DEEP_LEARNING/06_6_TRANSFORMERS/36 transformer_intro_nlp.ipynb
